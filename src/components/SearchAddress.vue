@@ -18,7 +18,7 @@
 
 <script>
 // import axios from "axios";
-import {searchAddress} from "@/api/user";
+import {searchAddress} from "@/api/address";
 
 export default {
   name: 'HelloWorld',
